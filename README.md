@@ -63,7 +63,7 @@ This chart highlights which songs stand out based on Spotify popularity.
 
 📸  
 
-![Top Genres by Popularity]
+![Most Popular Tracks](image/Spotity_most _popular.png)
 
 ---
 ## 🎛️ Dashboard Interactivity
