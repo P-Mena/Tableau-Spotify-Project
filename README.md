@@ -6,7 +6,7 @@ This project analyzes Spotify track data using **Tableau** to explore patterns i
 The goal is to understand how musical characteristics vary across genres and to visualize trends that define the structure and emotion of modern music.
 
 👉 **View the full interactive dashboard on Tableau Public:**  
-![Link of mu tableau public profile](https://public.tableau.com/app/profile/filomena.pedante/viz/task2_17616045454600/SpotifyTrendsDahboard)
+![Link of my tableau public profile](https://public.tableau.com/app/profile/filomena.pedante/viz/task2_17616045454600/SpotifyTrendsDahboard)
 
 ---
 
@@ -43,7 +43,7 @@ This helps identify genres with more dynamic energetic sound.
 
 📸  
 
-![AVG Loudness by Genre]()
+![AVG Loudness by Genre](image/AVG_Laudness_by_genre.png)
 
 ---
 
