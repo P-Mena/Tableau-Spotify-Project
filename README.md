@@ -6,7 +6,7 @@ This project analyzes Spotify track data using **Tableau** to explore patterns i
 The goal is to understand how musical characteristics vary across genres and to visualize trends that define the structure and emotion of modern music.
 
 👉 **View the full interactive dashboard on Tableau Public:**  
-![Link of my tableau public profile](https://public.tableau.com/app/profile/filomena.pedante/viz/task2_17616045454600/SpotifyTrendsDahboard)
+🔗 [My Tableau Public link](https://public.tableau.com/app/profile/filomena.pedante/viz/task2_17616045454600/SpotifyTrendsDahboard)
 
 ---
 
@@ -63,7 +63,7 @@ This chart highlights which songs stand out based on Spotify popularity.
 
 📸  
 
-![Most Popular Tracks](image/Spotity_most _popular.png)
+![Most Popular Tracks](image/Spotify_most_popular.png)
 
 ---
 ## 🎛️ Dashboard Interactivity
