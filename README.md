@@ -53,7 +53,7 @@ Each bubble represents a genre or track category, making it easy to spot pattern
 
 📸  
 
-![Popularity vs Energy and Danceability]
+![Popularity vs Energy and Danceability](image/Spotify_popularityVSenerg.png)
 
 ---
 
